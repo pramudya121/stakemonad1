@@ -1,0 +1,10 @@
+body {
+    background: url('./assets/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+.container {
+    margin-top: 100px;
+}
